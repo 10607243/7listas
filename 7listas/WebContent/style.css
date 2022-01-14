@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+ul li.cir {
+	list-style-type: circle;
+}
+
+ul li ol.romano {
+	list-style-type: upper-roman;
+}
+
+ul li ol.lat {
+	list-style-type: lower-latin;
+}
